@@ -84,8 +84,8 @@ useEffect(() => {
                 <h2>Tendencia</h2>
                 <div className="sec_text_desc">
                   <div className="sec_text_desc_p">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                    <p>Sencilla, clásica y creada para marcar un hito. El look atemporal de esta camiseta de local oficial adidas Real Madrid se acentúa con detalles en morado claro y el escudo del club repetido en relieve sobre el tejido blanco. Esta versión está diseñada para rendir al máximo en la cancha gracias a la tecnología de ventilación HEAT.RDY.</p>
+                    <p>Hecho con materiales 100% reciclados, este producto representa solo una de nuestras soluciones para acabar con los residuos plásticos.</p>
                   </div>
                 </div>
               </div>
@@ -98,7 +98,7 @@ useEffect(() => {
           </section>
 
           <section className="sec4 luxy_el">
-            <h3>Precios / de rebaja / 1 sol / 2 soles / 3 soles / compra p</h3>
+            <h3>Running/ Fútbol/ Outdoor/ Training</h3>
             <div className="sec4_img_group">
               <div className="sec4_img1">
                 <img src="9.PNG" width="400" height="500"/>
@@ -116,31 +116,31 @@ useEffect(() => {
           <h6>Nuestros clientes</h6>
         <Slider {...settings}>
           <div>
-            <img src="P1.PNG" width="300" height="350"/>
+            <img src="P1.PNG" width="300" height="300"/>
           </div>
           <div>
-            <img src="P2.PNG" width="300" height="350"/>
+            <img src="P1.PNG" width="300" height="300"/>
           </div>
           <div>
-            <img src="P3.PNG" width="300" height="350"/>
+            <img src="P1.PNG" width="300" height="300"/>
           </div>
           <div>
-            <img src="P4.PNG" width="300" height="350"/>
+            <img src="P1.PNG" width="300" height="300"/>
           </div>
           <div>
-            <img src="P5.PNG" width="300" height="350"/>
+            <img src="P1.PNG" width="300" height="300"/>
           </div>
           <div>
-            <img src="P6.PNG" width="300" height="350"/>
+            <img src="P1.PNG" width="300" height="300"/>
           </div>
           <div>
-            <img src="P3.PNG" width="300" height="350"/>
+            <img src="P1.PNG" width="300" height="300"/>
           </div>
           <div>
-            <img src="P4.PNG" width="300" height="350"/>
+            <img src="P1.PNG" width="300" height="300"/>
           </div>
           <div>
-            <img src="P5.PNG" width="300" height="350"/>
+            <img src="P1.PNG" width="300" height="300"/>
           </div>
         </Slider>
       </section>

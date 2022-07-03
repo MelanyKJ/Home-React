@@ -4,9 +4,7 @@ import { FaPaperPlane } from "react-icons/fa";
 import { BsTelephone } from "react-icons/bs";
 import { HiOutlineMail } from "react-icons/hi";
 import {MdGpsFixed} from 'react-icons/md';
-import { FiFacebook } from "react-icons/fi";
-import { FiTwitter } from "react-icons/fi";
-import { FiInstagram } from "react-icons/fi";
+
 const Footer = () => {
     return (
       <div className="main">
@@ -59,12 +57,7 @@ const Footer = () => {
                 	<p><a>Policy Privacy</a></p>
                 </div>
 
-                <div className="social_media">
-                	<li><FiFacebook/></li>
-                	<li><FiTwitter/></li>
-                	<li><FiInstagram/></li>
 
-                </div>
 
                 <p id="copyright">@2022 TeamPython.com. All Rights Reserved.</p>
 
