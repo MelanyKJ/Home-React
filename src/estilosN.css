@@ -265,7 +265,6 @@ nav .wrapper{
     max-height: 0px;
     overflow: hidden;
     transition: all 0.3s ease;
-    height: 50%;
   }
   .mega-box .content{
     box-shadow: none;
